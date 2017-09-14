@@ -10,7 +10,9 @@ Please use the "Issues" tab for code related issues only. If you need support pl
 Supported Devices and iOS versions
 
 Device	Version
+
 iPad Pro	iOS 10.0.0 -> iOS 10.2
+
 iPhone 6S	iOS 10.0.0 -> iOS 10.2
 iPhone SE	iOS 10.0.0 -> iOS 10.2
 iPhone 5S	iOS 10.0.0 -> iOS 10.2
